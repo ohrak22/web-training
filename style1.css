@@ -1,4 +1,6 @@
 ﻿body {
+    border-bottom: 1px solid gray;
+    padding: 20px;
 }
 
 header {
